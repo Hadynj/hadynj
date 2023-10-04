@@ -1,6 +1,7 @@
 ### Hi there 👋 
 - 🌱 Learning GitHub is fun!
-- 🔭 Have fun too! https://hadynj.github.io/my-first-blog/
+- 🔭 Have fun too!
+     - [x] https://hadynj.github.io/my-first-blog/
 
 
 <!--
