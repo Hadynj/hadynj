@@ -1,5 +1,5 @@
-### Hi there 👋
-![Image of GitHub](https://github.blog/wp-content/uploads/2023/01/1200x640-2.png?resize=1200%2C640)
+### Hi there 👋 
+- 🌱 Learning GitHub is fun!
 
 
 
