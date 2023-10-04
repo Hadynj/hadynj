@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Image of Have a Nice Day](https://thegiftcentral.com/cdn/shop/products/s7onlowy4dg4aet71cm90x54_1024x1024@2x.png?v=1588361821)
+![Image of GitHub](https://github.blog/wp-content/uploads/2023/01/1200x640-2.png?resize=1200%2C640)
 
 
 
