@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Image of Have a Nice Day](https://thegiftcentral.com/cdn/shop/products/s7onlowy4dg4aet71cm90x54_1024x1024@2x.png?v=1588361821)
+
+
 
 <!--
 **Hadynj/hadynj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
