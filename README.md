@@ -1,6 +1,6 @@
 ## Hi there 👋 
 - 🌱 Learning GitHub is fun!
-- 🔭 I am currentyly working on Web Development Projects
+- 🔭 I am currently working on Web Development Projects
 - 🔭 Have fun too!
      - [x] https://hadynj.github.io/my-first-blog/
 
